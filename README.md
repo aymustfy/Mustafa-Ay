@@ -1,4 +1,5 @@
-[<Me>](https://img.shields.io/badge/<About Me>-<Black>?style=for-the-badge&logo=<Me>&logoColor=<White>)
+![Me](https://img.shields.io/badge/Me-Black?style=for-the-badge&logo=Me&logoColor=Blue)
+
 Hello everyone my name is Mustafa and I'm working on Selcuk University as Research Assistant. 
 
 I want to change my workspace for new challenge and adventure.
