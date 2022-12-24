@@ -8,7 +8,7 @@ Due to my enthusiasm for Data Science, I took courses on data preprocessing, man
 
 Now I'm trying to learn Machine Learning in Python. 
 
-I know here is the best platform in order to sharing projects about this learning steps for everyone thinking like me.
+:loud_sound:I know here is the best platform in order to sharing projects about this learning steps for everyone thinking like me.
 
 I'm waiting contributions from everyone who is interested in this topics that like me. And i'm willing to work with others who interested in same field.
 
