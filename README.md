@@ -8,7 +8,7 @@ I want to change my workspace for new challenge and adventure.
 
 I know here is the best platform in order to sharing projects about this learning steps for everyone thinking like me.
 
-:loud_sound:I'm waiting contributions from everyone who is interested in this topics that like me. And i'm willing to work with others who interested in same field.
+:mega:I'm waiting contributions from everyone who is interested in this topics that like me. And i'm willing to work with others who interested in same field.
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa1ay/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mustafa1ay)
