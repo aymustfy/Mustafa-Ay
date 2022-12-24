@@ -1,12 +1,12 @@
-:man:Hello everyone my name is Mustafa and I'm working on Selcuk University as Research Assistant. 
+:man:Hello everyone my name is Mustafa. I'm working on Selcuk University as Research Assistant. 
 
-I want to change my workspace for new challenge and adventure.
+:rocket:I want to change my workspace for new challenge and adventure.
 
 :1st_place_medal:Due to my enthusiasm for Data Science, I took courses on data preprocessing, manipulating, wrangling, analysing and vizualizing tools such as SQL, Power BI, Python and Data Analytics.
 
 :technologist:Now I'm working on Machine Learning in Python. 
 
-I know here is the best platform in order to sharing projects about this learning steps for everyone thinking like me.
+:100:I know here is the best platform in order to sharing projects about this learning steps for everyone thinking like me.
 
 :mega:I'm waiting contributions from everyone who is interested in this topics that like me. And i'm willing to work with others who interested in same field.
 
