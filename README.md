@@ -1,12 +1,12 @@
 ![Me](https://img.shields.io/badge/Me-Black?style=for-the-badge&logo=Me&logoColor=Blue)
 
-Hello everyone my name is Mustafa and I'm working on Selcuk University as Research Assistant. 
+:man:Hello everyone my name is Mustafa and I'm working on Selcuk University as Research Assistant. 
 
 I want to change my workspace for new challenge and adventure.
 
-Due to my enthusiasm for Data Science, I took courses on data preprocessing, manipulating, analysing and vizualizing tools such as SQL, Power BI, Python and Data Analytics.
+:1st_place_medal:Due to my enthusiasm for Data Science, I took courses on data preprocessing, manipulating, analysing and vizualizing tools such as SQL, Power BI, Python and Data Analytics.
 
-Now I'm trying to learn Machine Learning in Python. 
+:technologist:Now I'm trying to learn Machine Learning in Python. 
 
 I know here is the best platform in order to sharing projects about this learning steps for everyone thinking like me.
 
