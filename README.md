@@ -11,4 +11,5 @@ I know here is the best platform in order to sharing projects about this learnin
 :loud_sound:I'm waiting contributions from everyone who is interested in this topics that like me. And i'm willing to work with others who interested in same field.
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa1ay/)
-[Twitter](https://img.shields.io/twitter/twitter.com%2Fmustafa1ay?style=for-the-badge&logo=Linkedin&logoColor=white)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/mustafa1ay)
+
